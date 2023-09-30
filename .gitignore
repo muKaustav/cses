@@ -1,2 +1,6 @@
-*.out
+# Ignore all compiled files
 *.exe
+*.out
+*.dll
+*.so
+*.dylib
